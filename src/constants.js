@@ -65,7 +65,7 @@ import cmLogo from './assets/work_logo/cm.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
 
-import cnnlogo from './assets/work_logo/cnn.png'
+import cnnlogo from './assets/work_logo/Cnn.png'
 import signlogo from './assets/work_logo/Signtotext.png'
 import Envlogo from './assets/work_logo/Envweb.png'
 
